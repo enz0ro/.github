@@ -4,9 +4,10 @@
 ___
 
 [<img src='https://user-images.githubusercontent.com/83868103/228278119-8f1fa7a2-a305-403c-ac03-d981fdebe5c6.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
- 
+
+
 [<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1wj6p0rgdpy8kkj3xa7e8t0g9tn9nyw4hltw2z2)
-[<img src='https://github.com/enz0ro/.github/assets/83868103/3786fade-dd7f-4c31-878c-c6d4b0674002' alt='Dymension'  width='24.5%'>](https://www.mintscan.io/dymension/validators/dymvaloper127chaf96mtdz33aqqnqmgnxtuas9d78pdalr5j)
+[<img src='https://github.com/enz0ro/.github/assets/83868103/88e9e6cc-f893-40ba-bfa0-abaf460d66a8' alt='Dymension'  width='24.5%'>](https://www.mintscan.io/dymension/validators/dymvaloper127chaf96mtdz33aqqnqmgnxtuas9d78pdalr5j)
 [<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://www.mintscan.io/quicksilver/validators/quickvaloper185lq8jkc70ya6hxkcrzye5l85u6plefuf0eqet)
 [<img src='https://user-images.githubusercontent.com/83868103/228051435-63c03119-8c5c-41fc-8e47-44db1598aa22.png' alt='TERITORI'  width='24.5%'>](https://www.mintscan.io/teritori/validators/torivaloper1qy38xmcrnht0kt5c5fryvl8llrpdwer6atxj5u)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='12.45%'>]()
