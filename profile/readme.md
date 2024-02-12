@@ -17,10 +17,7 @@ ___
 [<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='8%'>]()
 [<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='8%'>]()
 [<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='8%'>]()
-[<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='8%'>]()
-[<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='8%'>]()
-[<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='8%'>]()
-[<img src='https://github.com/enz0ro/.github/assets/83868103/3cc456f7-e8e9-4743-a2a2-1fe15f81d3cc' alt='UMEE'  width='8%'>]()
+
 
 
 [<img src='https://user-images.githubusercontent.com/83868103/228379791-0ee70d44-c01b-4806-be2e-30ce16b9aca8.png' alt='LAMBDA'  width='24.5%'>](https://explorer.nodestake.top/lambda/staking/lambvaloper1dxe8r8cwr36frcgyz5ufugm8tahampuamttlzp)
