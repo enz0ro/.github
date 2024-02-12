@@ -9,9 +9,9 @@ ___
 [<img src='https://github.com/enz0ro/.github/assets/83868103/855cc2dc-0f2a-4e6d-bae6-2b916155347f' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
 
 [<img src='https://github.com/enz0ro/.github/assets/83868103/05567821-9973-4d89-bbd4-81c2dbebf7a2' alt='MAINNETS'  width='27%'>](https://github.com/testnet-pride) 
-[<img src='https://github.com/enz0ro/.github/assets/83868103/2299e6a8-50f7-48f3-b309-204099d62a47' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
-[<img src='https://github.com/enz0ro/.github/assets/83868103/17b300d1-62a4-4927-a6d8-c44126286bfd' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
-[<img src='https://github.com/enz0ro/.github/assets/83868103/04de2c7c-4641-4c69-89d6-633c31118fc7' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
+[<img src='https://github.com/enz0ro/.github/assets/83868103/6014e8bd-c9a1-41a6-bddb-40b63a8fc123' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
+[<img src='https://github.com/enz0ro/.github/assets/83868103/319a5764-62b2-4ef7-bf35-5e28e816ed20' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
+[<img src='https://github.com/enz0ro/.github/assets/83868103/319a5764-62b2-4ef7-bf35-5e28e816ed20' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
 
 [<img src='https://github.com/enz0ro/.github/assets/83868103/87b60a2c-c05d-4e10-aa68-acedf9ef6590' alt='MAINNETS'  width='27%'>](https://github.com/testnet-pride) 
 [<img src='https://github.com/enz0ro/.github/assets/83868103/2299e6a8-50f7-48f3-b309-204099d62a47' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
