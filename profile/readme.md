@@ -6,7 +6,6 @@ ___
 [<img src='https://github.com/enz0ro/.github/assets/83868103/c9251d84-8de7-41fa-8e8f-5ceba75020b5' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/8da04a60-2314-468e-9830-f35146d63aee' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/e4de293b-e12b-4685-957b-752c0540ba34' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
-
 [<img src='https://github.com/enz0ro/.github/assets/83868103/6eee76a8-696b-4cba-86dc-8972f74685a6' alt='KUSAMA'  width='27%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/c9251d84-8de7-41fa-8e8f-5ceba75020b5' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/8da04a60-2314-468e-9830-f35146d63aee' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
