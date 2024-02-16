@@ -17,7 +17,7 @@ ___
 [<img src='https://github.com/enz0ro/.github/assets/83868103/eb6443ab-e62b-4ac1-9593-2e387baa78fc' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
 
 
-[<img src='https://github.com/enz0ro/.github/assets/83868103/c561143d-4352-4642-be48-2c34eca8eb9d' alt='KUSAMA'  width='24.5%'>](https://github.com/testnet-pride)
+[<img src='https://github.com/enz0ro/.github/assets/83868103/6eee76a8-696b-4cba-86dc-8972f74685a6' alt='KUSAMA'  width='24.5%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/77fb14a4-6e4c-4886-be8b-d84e82e638d8' alt='POLKADOT'  width='24.5%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/52a01b09-16f8-4ceb-b29b-fdb63494d527' alt='MAINNETS'  width='24.5%'>](https://github.com/testnet-pride) 
 [<img src='https://github.com/enz0ro/.github/assets/83868103/05567821-9973-4d89-bbd4-81c2dbebf7a2' alt='MAINNETS'  width='24.5%'>](https://github.com/testnet-pride) 
