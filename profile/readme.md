@@ -11,13 +11,10 @@ ___
 [<img src='https://github.com/enz0ro/.github/assets/83868103/03882112-ebea-473b-8338-a954e28e8861' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/579a8006-7ed0-4abc-bf44-9647c1422fb2' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/eb6443ab-e62b-4ac1-9593-2e387baa78fc' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
-
-
-
-
-
-[<img src='https://github.com/enz0ro/.github/assets/83868103/0f0ecf95-7b61-402e-b0b9-aabe9231f8f2' alt='POLKADOT'  width='27%'>](https://github.com/testnet-pride)
-[<img src='https://github.com/enz0ro/.github/assets/83868103/f11fb82f-ad25-428c-9112-1997df2ccc75' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride) 
+[<img src='https://github.com/enz0ro/.github/assets/83868103/77fb14a4-6e4c-4886-be8b-d84e82e638d8' alt='POLKADOT'  width='27%'>](https://github.com/testnet-pride)
+[<img src='https://github.com/enz0ro/.github/assets/83868103/03882112-ebea-473b-8338-a954e28e8861' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
+[<img src='https://github.com/enz0ro/.github/assets/83868103/579a8006-7ed0-4abc-bf44-9647c1422fb2' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
+[<img src='https://github.com/enz0ro/.github/assets/83868103/eb6443ab-e62b-4ac1-9593-2e387baa78fc' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride)
 
 
 [<img src='https://github.com/enz0ro/.github/assets/83868103/617a9ff1-7544-492d-94b3-539f3cb477e1' alt='POLKADOT'  width='27%'>](https://github.com/testnet-pride)
