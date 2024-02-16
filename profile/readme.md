@@ -2,6 +2,10 @@
 #
 [<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/intent/user?screen_name=enzoro_team&intent=follow)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/enzoro_team)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:enzoro.dev@gmail.com)[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/enz0ro)
 ___
+[<img src='https://github.com/enz0ro/.github/assets/83868103/c561143d-4352-4642-be48-2c34eca8eb9d' alt='KUSAMA'  width='27%'>](https://github.com/testnet-pride)    
+[<img src='https://github.com/enz0ro/.github/assets/83868103/0f0ecf95-7b61-402e-b0b9-aabe9231f8f2' alt='POLKADOT'  width='27%'>](https://github.com/testnet-pride) 
+
+
 
 [<img src='https://github.com/enz0ro/.github/assets/83868103/52a01b09-16f8-4ceb-b29b-fdb63494d527' alt='MAINNETS'  width='27%'>](https://github.com/testnet-pride) 
 [<img src='https://github.com/enz0ro/.github/assets/83868103/b01ec3b2-bdfc-4b5b-bf08-26f860dea702' alt='MAINNETS'  width='20.5%'>](https://github.com/testnet-pride) 
