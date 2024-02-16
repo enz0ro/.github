@@ -4,6 +4,10 @@
 ___
 [<img src='https://github.com/enz0ro/.github/assets/83868103/c561143d-4352-4642-be48-2c34eca8eb9d' alt='KUSAMA'  width='27%'>](https://github.com/testnet-pride)   
 
+[<img src='https://github.com/enz0ro/.github/assets/83868103/6eee76a8-696b-4cba-86dc-8972f74685a6' alt='KUSAMA'  width='27%'>](https://github.com/testnet-pride)  
+
+
+
 [<img src='https://github.com/enz0ro/.github/assets/83868103/0f0ecf95-7b61-402e-b0b9-aabe9231f8f2' alt='POLKADOT'  width='27%'>](https://github.com/testnet-pride)
 [<img src='https://github.com/enz0ro/.github/assets/83868103/f11fb82f-ad25-428c-9112-1997df2ccc75' alt='explorer'  width='20.5%'>](https://github.com/testnet-pride) 
 
